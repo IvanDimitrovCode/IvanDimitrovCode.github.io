@@ -1,2 +1,9 @@
-{
-}
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.puzzlegramma.memories",
+    "sha256_cert_fingerprints":
+    ["0E:0C:4A:8A:12:25:6F:7F:ED:59:70:72:63:85:00:2B:C4:D2:77:67:89:3F:19:B7:91:CE:5B:59:A6:F4:19:F2"]
+  }
+}]
